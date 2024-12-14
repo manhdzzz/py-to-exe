@@ -1,4 +1,3 @@
-```markdown
 # Hướng dẫn sử dụng PyInstaller
 
 PyInstaller là một công cụ để đóng gói ứng dụng Python thành các tệp thực thi độc lập (executable) có thể chạy trên các hệ điều hành khác nhau như Windows, macOS và Linux.
@@ -15,7 +14,7 @@ PyInstaller là một công cụ để đóng gói ứng dụng Python thành c�
   
   ```bash
   pyinstaller --help
-  ```
+
 
 - **-v, --version**: Hiển thị phiên bản của PyInstaller.
 
