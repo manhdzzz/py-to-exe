@@ -198,10 +198,3 @@ PyInstaller là một công cụ để đóng gói ứng dụng Python thành c�
   ```bash
   pyinstaller --codesign-identity "Developer ID" myscript.py
   ```
-
-## Kết luận
-
-PyInstaller là một công cụ mạnh mẽ để đóng gói các ứng dụng Python thành các tệp thực thi có thể chạy độc lập trên nhiều hệ điều hành. Các tùy chọn trên giúp bạn tùy chỉnh quá trình đóng gói ứng dụng theo nhu cầu của mình.
-```
-
-Đây là hướng dẫn chi tiết với các ví dụ về cách sử dụng PyInstaller. Bạn có thể sao chép nội dung trên và lưu vào file `README.md` để sử dụng trên GitHub hoặc trong dự án của bạn.
